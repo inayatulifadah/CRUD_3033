@@ -4,9 +4,9 @@
  */
 package com.inayatulifadah.crudmahasiswasederhana.views;
 
-import com.zidanfathannul.crudmahasiswasederhana.interfc.MahasiswaInterface;
-import com.zidanfathannul.crudmahasiswasederhana.models.Mahasiswa;
-import com.zidanfathannul.crudmahasiswasederhana.models.MahasiswaController;
+import com.inayatulifadah.crudmahasiswasederhana.interfc.MahasiswaInterface;
+import com.inayatulifadah.crudmahasiswasederhana.models.Mahasiswa;
+import com.inayatulifadah.crudmahasiswasederhana.models.MahasiswaController;
 import java.awt.ScrollPane;
 import java.sql.SQLException;
 import java.util.ArrayList;
