@@ -1,7 +1,7 @@
 
 package com.inayatulifadah.crudmahasiswasederhana.interfc;
 
-import com.zidanfathannul.crudmahasiswasederhana.models.Mahasiswa;
+import com.inayatulifadah.crudmahasiswasederhana.models.Mahasiswa;
 import java.sql.SQLException;
 import java.util.List;
 
