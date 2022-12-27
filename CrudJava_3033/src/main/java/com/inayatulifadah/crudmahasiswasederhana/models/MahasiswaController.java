@@ -1,8 +1,8 @@
 
 package com.inayatulifadah.crudmahasiswasederhana.models;
 
-import com.zidanfathannul.crudmahasiswasederhana.db.ConnectionHelper;
-import com.zidanfathannul.crudmahasiswasederhana.interfc.MahasiswaInterface;
+import com.inayatulifadah.crudmahasiswasederhana.db.ConnectionHelper;
+import com.inayatulifadah.crudmahasiswasederhana.interfc.MahasiswaInterface;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
