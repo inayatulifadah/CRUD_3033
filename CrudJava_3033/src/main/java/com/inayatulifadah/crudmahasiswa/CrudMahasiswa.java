@@ -1,7 +1,7 @@
 package com.inayatulifadah.crudmahasiswa;
 
 
-import com.zidanfathannul.crudmahasiswasederhana.views.MahasiswaFrame;
+import com.inayatulifadah.crudmahasiswasederhana.views.MahasiswaFrame;
 import javax.swing.SwingUtilities;
 
 public class CrudMahasiswa {
